@@ -10,7 +10,7 @@ Contact: [LinkedIn](https://www.linkedin.com/in/ruth-acolatse-0450181a1?utm_sour
 
 | Project | What it shows | Tools |
 |---|---|---|
-| [Pharmacy demand forecasting summary](Ruth_Acolatse_Pharmacy_Demand_Forecasting_Business_Summary.pdf) | Business version of a machine learning class project. Nine model families were compared on 2,106 days of pharmacy demand. The simplest model (linear regression) won, but there was a 26 to 32% in the leading models. | Python, forecasting metrics (RMSE, WAPE, MASE, bias) |
+| [Pharmacy demand forecasting summary](Ruth_Acolatse_Pharmacy_Demand_Forecasting_Business_Summary.pdf) | Business version of a machine learning class project. Nine model families were compared on 2,106 days of pharmacy demand. The simplest model (linear regression) won, but there was a 26 to 32% underprediction in the leading models. | Python, forecasting metrics (RMSE, WAPE, MASE, bias) |
 | [Licensee screening tracker](Excel%20tracker) | A scoring model that ranks 15 fictional automakers as licensing targets, with a company profile card and a summary sheet. | Excel: XLOOKUP, named ranges, data validation, SUMIF(S), COUNTIF, Power Query |
 | [Finance tracker template](Finance%20tracker) | Monthly budget tracker with a dashboard, month picker, budget vs used flags and account balances that roll forward month to month. | Excel: SUMIFS, INDIRECT, named ranges, conditional formatting, charts |
 | [Calendar sync script](Calendar%20sync) | Google Apps Script that keeps a calendar in sync with a spreadsheet. Includes a demo workbook. | Google Apps Script, Google Sheets |
